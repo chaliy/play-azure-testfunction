@@ -2,8 +2,7 @@
   "bindings": [
     {
       "type": "httpTrigger",
-      "direction": "in",
-      "methods": [ "get" ]
+      "direction": "in"      
     },
     {
       "type": "http",
